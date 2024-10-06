@@ -1,10 +1,10 @@
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">Hola, soy Santiago Valdi.</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Hola, soy Santiago Valdi.</h1>
 
 <h3 align="center">Naci el 02/05/2005 en Buenos Aires, Argentina.<br>Estudio la <a href="https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica">Tecnicatura en Programación Informática</a> en la <a href="https://unsam.edu.ar/escuelas/ecyt/"><br>Universidad Nacional de San Martín</a>.</h3>
 
 <br>
 
-<h3 align="center"> Conocimiento:</h3>
+<h3 align="center">Conocimiento:</h3>
 
 
 <div align="center">
