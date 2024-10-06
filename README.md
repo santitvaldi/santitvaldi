@@ -14,7 +14,7 @@
 
 <br>
 
-<h3>Naci el 02/05/2005 en Buenos Aires, Argentina.<br>Estudio la <a href="https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica">Tecnicatura en Programación Informática</a> en la <a href="https://unsam.edu.ar/escuelas/ecyt/"><br>Universidad Nacional de San Martín</a>.</h3>
+<h3 align="center">Naci el 02/05/2005 en Buenos Aires, Argentina.<br>Estudio la <a href="https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica">Tecnicatura en Programación Informática</a> en la <a href="https://unsam.edu.ar/escuelas/ecyt/"><br>Universidad Nacional de San Martín</a>.</h3>
 
 <br>
 
