@@ -17,13 +17,13 @@
 <h3 align="center">Contacto:</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/santiago-valdi-66926b24a/">
+    <a href="https://www.linkedin.com/in/santiago-valdi-66926b24a/" target="_blank">
         <img alt="Santiago's LinkedIn" width="50px" src="https://img.icons8.com/nolan/96/linkedin.png" />
     </a>
-    <a href="https://www.instagram.com/santitvaldi/">
+    <a href="https://www.instagram.com/santitvaldi/" target="_blank">
         <img alt="Santiago's Instagram" width="50px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
     </a>
-    <a href="https://twitter.com/santitvaldi">
+    <a href="https://twitter.com/santitvaldi" target="_blank">
         <img alt="Santiago's Twitter" width="50px" src="https://img.icons8.com/nolan/96/twitter.png" />
     </a> 
 </p>
