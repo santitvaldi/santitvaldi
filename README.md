@@ -23,8 +23,5 @@
     <a href="https://www.instagram.com/santitvaldi/" target="_blank">
         <img alt="Santiago's Instagram" width="50px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
     </a>
-    <a href="https://twitter.com/santitvaldi" target="_blank">
-        <img alt="Santiago's Twitter" width="50px" src="https://img.icons8.com/nolan/96/twitter.png" />
-    </a> 
 </p>
 
