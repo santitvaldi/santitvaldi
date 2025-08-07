@@ -14,14 +14,29 @@
 
 <br>
 
+<!-- Sección de conocimientos -->
+<h3 align="center">Conocimientos:</h3>
+
+<p align="center">
+    <img alt="Excel" width="50px" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
+    <img alt="HTML" width="50px" src="https://img.icons8.com/color/48/html-5--v1.png" />
+    <img alt="CSS" width="50px" src="https://img.icons8.com/color/48/css3.png" />
+    <img alt="Python" width="50px" src="https://img.icons8.com/color/48/python.png" />
+    <img alt="C++" width="50px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
+    <img alt="Kotlin" width="50px" src="https://img.icons8.com/color/48/kotlin.png" />
+    <img alt="Wollok" width="50px" src="https://img.icons8.com/color/48/source-code.png" />
+</p>
+
+<!-- Sección de contacto -->
 <h3 align="center">Contacto:</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/santiago-valdi-66926b24a/" target="_blank">
-        <img alt="Santiago's LinkedIn" width="50px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+        <img alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/linkedin.png" />
     </a>
     <a href="https://www.instagram.com/santitvaldi/" target="_blank">
-        <img alt="Santiago's Instagram" width="50px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+        <img alt="Instagram" width="50px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />
     </a>
 </p>
+
 
