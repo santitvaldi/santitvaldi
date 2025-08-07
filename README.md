@@ -23,7 +23,7 @@
     <a href="https://www.linkedin.com/in/santiago-valdi-66926b24a/" target="_blank">
         <img alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/linkedin.png" />
     </a>
-    <a href="https://www.instagram.com/santitvaldi/" target="_blank">
+    <a href="https://www.instagram.com/santitvaldi/" target="_BLANK">
         <img alt="Instagram" width="50px" src="https://img.icons8.com/color/48/instagram-new.png" />
     </a>
 </p>
