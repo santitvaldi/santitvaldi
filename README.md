@@ -13,6 +13,7 @@
     <img alt="CSS" width="50px" src="https://img.icons8.com/color/48/css3.png" />
     <img alt="Python" width="50px" src="https://img.icons8.com/color/48/python.png" />
     <img alt="C++" width="50px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
+    <img alt="GitHub" width="50px" src="https://img.icons8.com/color/48/github--v1.png" />
     <img alt="Kotlin" width="50px" src="https://img.icons8.com/color/48/kotlin.png" />
 </p>
 
