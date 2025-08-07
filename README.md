@@ -24,7 +24,7 @@
         <img alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/linkedin.png" />
     </a>
     <a href="https://www.instagram.com/santitvaldi/" target="_blank">
-        <img alt="Instagram" width="50px" src="https://img.icons8.com/color/48/instagram.png" />
+        <img alt="Instagram" width="50px" src="https://img.icons8.com/color/48/instagram-new.png" />
     </a>
 </p>
 
