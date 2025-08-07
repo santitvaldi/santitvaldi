@@ -4,16 +4,6 @@
 
 <br>
 
-<h3 align="center">Conocimiento:</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,cpp,arduino,git,github,sublime,vscode,windows,ubuntu,notion" />
-  </a>
-</p>
-
-<br>
-
 <!-- Sección de conocimientos -->
 <h3 align="center">Conocimientos:</h3>
 
@@ -24,7 +14,7 @@
     <img alt="Python" width="50px" src="https://img.icons8.com/color/48/python.png" />
     <img alt="C++" width="50px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
     <img alt="Kotlin" width="50px" src="https://img.icons8.com/color/48/kotlin.png" />
-    <img alt="Wollok" width="50px" src="https://img.icons8.com/color/48/source-code.png" />
+    <img alt="Wollok" width="50px" src="https://img.icons8.com/color/48/wollok.png" />
 </p>
 
 <!-- Sección de contacto -->
