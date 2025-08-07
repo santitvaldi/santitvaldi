@@ -14,7 +14,6 @@
     <img alt="Python" width="50px" src="https://img.icons8.com/color/48/python.png" />
     <img alt="C++" width="50px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" />
     <img alt="Kotlin" width="50px" src="https://img.icons8.com/color/48/kotlin.png" />
-    <img alt="Wollok" width="50px" src="https://img.icons8.com/color/48/wollok.png" />
 </p>
 
 <!-- Sección de contacto -->
@@ -25,7 +24,7 @@
         <img alt="LinkedIn" width="50px" src="https://img.icons8.com/color/48/linkedin.png" />
     </a>
     <a href="https://www.instagram.com/santitvaldi/" target="_blank">
-        <img alt="Instagram" width="50px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />
+        <img alt="Instagram" width="50px" src="https://img.icons8.com/color/48/instagram.png" />
     </a>
 </p>
 
