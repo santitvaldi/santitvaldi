@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hola, soy Santiago Valdi</h1>
+<div align="center">
 
-<h3 align="center">
-  Estudiante de <a href="https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica">Tecnicatura en Programación Informática</a><br>
-  Universidad Nacional de San Martín · Buenos Aires, Argentina
-</h3>
+# 👋 Hola, soy Santiago Valdi
+
+Estudiante de [Tecnicatura en Programación Informática](https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica)  
+Universidad Nacional de San Martín · Buenos Aires, Argentina
 
 ---
 
@@ -30,20 +30,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoValdi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoValdi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoValdi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true)](https://github.com/SantiagoValdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoValdi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/SantiagoValdi)
 
 ---
 
 ### 📬 Contacto
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiago-valdi-66926b24a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/santitvaldi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valdi-66926b24a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santitvaldi/)
+
+</div>
