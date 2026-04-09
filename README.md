@@ -15,15 +15,15 @@ Universidad Nacional de San Martín · Buenos Aires, Argentina
 
 ### 🛠 Otros conocimientos
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1500?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-1a0e00?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-00061a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1500?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-000d1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![C++](https://img.shields.io/badge/C++-001a1a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Python](https://img.shields.io/badge/Python-001a0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![Assembler x86](https://img.shields.io/badge/Assembler_x86-1a1a1a?style=for-the-badge&logo=assemblyscript&logoColor=aaa)
 ![Git](https://img.shields.io/badge/Git-1a0600?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ccc)
+![Assembler x86](https://img.shields.io/badge/Assembler_x86-1a1a1a?style=for-the-badge&logo=assemblyscript&logoColor=aaa)
 ![Office](https://img.shields.io/badge/Office-1a0600?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
 
 ---
