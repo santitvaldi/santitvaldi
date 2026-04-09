@@ -26,12 +26,6 @@ Universidad Nacional de San Martín · Buenos Aires, Argentina
 ![Assembler x86](https://img.shields.io/badge/Assembler_x86-1a1a1a?style=for-the-badge&logo=assemblyscript&logoColor=aaa)
 ![Office](https://img.shields.io/badge/Office-1a0600?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
 
----
-
-### 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantiagoValdi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true)](https://github.com/SantiagoValdi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoValdi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/SantiagoValdi)
 
 ---
 
