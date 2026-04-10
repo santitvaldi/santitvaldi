@@ -2,7 +2,7 @@
 
 <img src="./header.svg" width="600" alt="Santiago Valdi"/>
 
-<br/><br/><br/>
+<br/><br/>
 
 ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=6096E0&labelColor=161b22)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=6096E0&labelColor=161b22)
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=6096E0&labelColor=161b22)](https://www.linkedin.com/in/santiago-valdi-66926b24a/)
-[![Instagram](https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=6096E0&labelColor=161b22)](https://www.instagram.com/santitvaldi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=LinkedIn&logoColor=6096E0&labelColor=161b22)](https://www.linkedin.com/in/santiago-valdi-66926b24a/)
+[![Instagram](https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=Instagram&logoColor=6096E0&labelColor=161b22)](https://www.instagram.com/santitvaldi/)
 
 </div>

@@ -1,11 +1,6 @@
-<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="160" viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .bracket { animation: breathe 3s ease-in-out infinite; }
-      .slash   { animation: flash  4s ease-in-out infinite; }
-      @keyframes breathe { 0%,100%{opacity:0.55} 50%{opacity:1} }
-      @keyframes flash   { 0%,100%{opacity:0.35} 40%,60%{opacity:0.9} }
-
       .phrase { opacity: 0; }
       .p0 { animation: cycle 25s 0s     infinite; }
       .p1 { animation: cycle 25s -20s   infinite; }
@@ -22,67 +17,60 @@
     </style>
   </defs>
 
-  <!-- </> icon -->
-  <text x="300" y="48" text-anchor="middle"
+  <!-- < Santiago Valdi > -->
+  <text x="300" y="44" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="30" font-weight="300" letter-spacing="-1">
-    <tspan class="bracket" fill="#6096E0">&lt;</tspan><tspan class="slash" fill="#8ab4f0">/</tspan><tspan class="bracket" fill="#6096E0">&gt;</tspan>
-  </text>
-
-  <!-- name -->
-  <text x="300" y="90" text-anchor="middle"
-        font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="26" font-weight="300" letter-spacing="-0.5">
-    <tspan fill="#f0f2f5">Santiago </tspan><tspan fill="#6096E0">Valdi</tspan>
+        font-size="26" font-weight="300" letter-spacing="1">
+    <tspan fill="#6096E0">&lt; </tspan><tspan fill="#f0f2f5">Santiago Valdi</tspan><tspan fill="#6096E0"> &gt;</tspan>
   </text>
 
   <!-- title line 1 -->
-  <text x="300" y="116" text-anchor="middle"
+  <text x="300" y="72" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="13.5" font-weight="300" fill="#8a9bb8" letter-spacing="0.3">
+        font-size="13" font-weight="300" fill="#6096E0" letter-spacing="0.3">
     Técnico en Programación Informática
   </text>
 
   <!-- title line 2 -->
-  <text x="300" y="134" text-anchor="middle"
+  <text x="300" y="90" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="13.5" font-weight="300" fill="#8a9bb8" letter-spacing="0.3">
-    UNSAM · Buenos Aires
+        font-size="12" font-weight="300" fill="#4a5a78" letter-spacing="0.3">
+    Universidad Nacional de San Martín
   </text>
 
-  <!-- phrase 0: clean (code), clean (mind) -->
-  <text x="300" y="172" text-anchor="middle"
+  <!-- phrase 0 -->
+  <text x="300" y="130" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="12.5" font-weight="300" letter-spacing="0.2">
-    <tspan class="phrase p0" fill="#4a5a78">clean <tspan fill="#6096E0">code</tspan>, clean <tspan fill="#6096E0">mind</tspan></tspan>
+        font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p0" fill="#3a4a68">clean <tspan fill="#6096E0">code</tspan>, clean <tspan fill="#6096E0">mind</tspan></tspan>
   </text>
 
-  <!-- phrase 1: (best practices) are not optional -->
-  <text x="300" y="172" text-anchor="middle"
+  <!-- phrase 1 -->
+  <text x="300" y="130" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="12.5" font-weight="300" letter-spacing="0.2">
-    <tspan class="phrase p1" fill="#4a5a78"><tspan fill="#6096E0">best practices</tspan> are not optional</tspan>
+        font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p1" fill="#3a4a68"><tspan fill="#6096E0">best practices</tspan> are not optional</tspan>
   </text>
 
-  <!-- phrase 2: there's (always) a more (elegant) solution -->
-  <text x="300" y="172" text-anchor="middle"
+  <!-- phrase 2 -->
+  <text x="300" y="130" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="12.5" font-weight="300" letter-spacing="0.2">
-    <tspan class="phrase p2" fill="#4a5a78">there's <tspan fill="#6096E0">always</tspan> a more <tspan fill="#6096E0">elegant</tspan> solution</tspan>
+        font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p2" fill="#3a4a68">there's <tspan fill="#6096E0">always</tspan> a more <tspan fill="#6096E0">elegant</tspan> solution</tspan>
   </text>
 
-  <!-- phrase 3: (always) thinking (ahead) -->
-  <text x="300" y="172" text-anchor="middle"
+  <!-- phrase 3 -->
+  <text x="300" y="130" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="12.5" font-weight="300" letter-spacing="0.2">
-    <tspan class="phrase p3" fill="#4a5a78"><tspan fill="#6096E0">always</tspan> thinking <tspan fill="#6096E0">ahead</tspan></tspan>
+        font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p3" fill="#3a4a68"><tspan fill="#6096E0">always</tspan> thinking <tspan fill="#6096E0">ahead</tspan></tspan>
   </text>
 
-  <!-- phrase 4: (detail) is what separates good from (great) -->
-  <text x="300" y="172" text-anchor="middle"
+  <!-- phrase 4 -->
+  <text x="300" y="130" text-anchor="middle"
         font-family="ui-monospace,'Cascadia Code','SF Mono',monospace"
-        font-size="12.5" font-weight="300" letter-spacing="0.2">
-    <tspan class="phrase p4" fill="#4a5a78"><tspan fill="#6096E0">detail</tspan> is what separates good from <tspan fill="#6096E0">great</tspan></tspan>
+        font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p4" fill="#3a4a68"><tspan fill="#6096E0">detail</tspan> is what separates good from <tspan fill="#6096E0">great</tspan></tspan>
   </text>
 
 </svg>
