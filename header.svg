@@ -1,0 +1,72 @@
+<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bracket {
+        animation: breathe 3s ease-in-out infinite;
+        transform-origin: 300px 60px;
+      }
+      .slash {
+        animation: flash 4s ease-in-out infinite;
+      }
+      @keyframes breathe {
+        0%, 100% { opacity: 0.55; }
+        50% { opacity: 1; }
+      }
+      @keyframes flash {
+        0%, 100% { opacity: 0.35; }
+        40%, 60% { opacity: 0.9; }
+      }
+
+      .phrase { opacity: 0; }
+
+      .p0 { animation: cycle 20s 0s infinite; }
+      .p1 { animation: cycle 20s -16s infinite; }
+      .p2 { animation: cycle 20s -12s infinite; }
+      .p3 { animation: cycle 20s -8s infinite; }
+      .p4 { animation: cycle 20s -4s infinite; }
+
+      @keyframes cycle {
+        0%    { opacity: 0; }
+        2%    { opacity: 1; }
+        18%   { opacity: 1; }
+        20%   { opacity: 0; }
+        100%  { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- background transparent -->
+
+  <!-- </> icon -->
+  <text x="300" y="52" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="28" font-weight="300" letter-spacing="-1">
+    <tspan class="bracket" fill="#5a7fff">&lt;</tspan><tspan class="slash" fill="#8da8ff">/</tspan><tspan class="bracket" fill="#5a7fff">&gt;</tspan>
+  </text>
+
+  <!-- name -->
+  <text x="300" y="90" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="22" font-weight="300" fill="#f0f2f5" letter-spacing="-0.5">
+    Santiago <tspan fill="#5a7fff">Valdi</tspan>
+  </text>
+
+  <!-- university line -->
+  <text x="300" y="114" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="11" font-weight="300" fill="#2a3450" letter-spacing="0.5">
+    Tecnicatura en Programación Informática · UNSAM
+  </text>
+
+  <!-- rotating phrases -->
+  <text x="300" y="150" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p0" fill="#3a4a68">estudiante de <tspan fill="#6a8adf">programación</tspan></tspan>
+  </text>
+  <text x="300" y="150" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p1" fill="#3a4a68">apasionado por <tspan fill="#6a8adf">el código limpio</tspan></tspan>
+  </text>
+  <text x="300" y="150" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p2" fill="#3a4a68">construyendo con <tspan fill="#6a8adf">React + TypeScript</tspan></tspan>
+  </text>
+  <text x="300" y="150" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p3" fill="#3a4a68">fanático de <tspan fill="#6a8adf">la música y el diseño</tspan></tspan>
+  </text>
+  <text x="300" y="150" text-anchor="middle" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="12" font-weight="300" letter-spacing="0.2">
+    <tspan class="phrase p4" fill="#3a4a68">explorando <tspan fill="#6a8adf">Android con Kotlin</tspan></tspan>
+  </text>
+
+</svg>
