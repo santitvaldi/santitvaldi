@@ -1,37 +1,30 @@
 <div align="center">
 
-# 👋 Hola, soy Santiago Valdi
+<img src="./header.svg" width="600" alt="Santiago Valdi"/>
 
-Estudiante de [Tecnicatura en Programación Informática](https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica)  
-Universidad Nacional de San Martín · Buenos Aires, Argentina
+<br/>
 
----
+[Tecnicatura en Programación Informática](https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica) · UNSAM, Buenos Aires
 
-### ⭐ Stack principal
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-001933?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Kotlin](https://img.shields.io/badge/Kotlin-1a0d2e?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=5a7fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=5a7fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=5a7fff)
 
-### 🛠 Otros conocimientos
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=5a7fff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=5a7fff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=5a7fff)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=5a7fff)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=5a7fff)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=5a7fff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=5a7fff)
+![Assembler](https://img.shields.io/badge/Assembler_x86-0d1117?style=flat-square&logo=assemblyscript&logoColor=5a7fff)
+![Wollok](https://img.shields.io/badge/Wollok-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzVhN2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyUzYuNDggMjIgMTIgMjIgMjIgMTcuNTIgMjIgMTIgMTcuNTIgMiAxMiAyek02IDkuNWgxMnY1SDZ6Ii8+PC9zdmc+&logoColor=5a7fff)
 
-![HTML5](https://img.shields.io/badge/HTML5-1a0e00?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-00061a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1500?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-000d1a?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![C++](https://img.shields.io/badge/C++-001a1a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-001a0d?style=for-the-badge&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-1a0600?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ccc)
-![Assembler x86](https://img.shields.io/badge/Assembler_x86-1a1a1a?style=for-the-badge&logo=assemblyscript&logoColor=aaa)
-![Office](https://img.shields.io/badge/Office-1a0600?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
+<br/>
 
-
----
-
-### 📬 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-valdi-66926b24a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santitvaldi/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=5a7fff)](https://www.linkedin.com/in/santiago-valdi-66926b24a/)
+[![Instagram](https://img.shields.io/badge/instagram-0d1117?style=flat-square&logo=instagram&logoColor=5a7fff)](https://www.instagram.com/santitvaldi/)
 
 </div>
