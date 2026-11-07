@@ -1,14 +1,14 @@
 <div align="center">
 
-<h3 align="center" style="font-size: 2em; line-height: 1.2"><span style="color: #79c0ff">&lt;</span> Santiago Valdi <span style="color: #79c0ff">&gt;</span></h3>
+<img src="./name.png" width="600" alt="&lt; Santiago Valdi &gt;" />
 
-<a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica" style="color: #79c0ff; font-size: 1.15em">
+<a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica">
   Técnico Universitario en Programación Informática
 </a>
 <br />
 Universidad Nacional de San Martín (UNSAM)
 
-<br /><br />
+<br />
 
 ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=6096E0&labelColor=161b22)
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=6096E0&labelColor=161b22)
@@ -27,9 +27,9 @@ Universidad Nacional de San Martín (UNSAM)
 ![C++](https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus&logoColor=6096E0&labelColor=161b22)
 ![Assembler](https://img.shields.io/badge/Assembler_x86-161b22?style=flat-square&logo=assemblyscript&logoColor=6096E0&labelColor=161b22)
 
-<br /><br />
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=6096E0&labelColor=161b22)](https://www.linkedin.com/in/santiago-valdi-66926b24a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22&v=2)](https://www.linkedin.com/in/santiago-valdi-66926b24a/)
 [![Instagram](https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=Instagram&logoColor=6096E0&labelColor=161b22)](https://www.instagram.com/santitvaldi/)
 
 </div>
