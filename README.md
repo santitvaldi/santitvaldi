@@ -8,6 +8,8 @@
   Universidad Nacional de San Martín (UNSAM)
 </p>
 
+<br />
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-161b22?style=flat-square&amp;logo=react&amp;logoColor=6096E0&amp;labelColor=161b22" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&amp;logo=typescript&amp;logoColor=6096E0&amp;labelColor=161b22" alt="TypeScript" />
@@ -30,6 +32,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&amp;logo=cplusplus&amp;logoColor=6096E0&amp;labelColor=161b22" alt="C++" />
   <img src="https://img.shields.io/badge/Assembler_x86-161b22?style=flat-square&amp;logo=assemblyscript&amp;logoColor=6096E0&amp;labelColor=161b22" alt="Assembler x86" />
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-valdi-66926b24a/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&amp;logo=linkedin&amp;logoColor=0A66C2&amp;labelColor=161b22&amp;v=2" alt="LinkedIn" /></a>
