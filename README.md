@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica"><img src="./degree.png" width="600" alt="Técnico Universitario en Programación Informática" /></a>
+  <img src="./degree.png" width="600" alt="Técnico Universitario en Programación Informática" />
   <br />
   Universidad Nacional de San Martín (UNSAM)
 </p>
