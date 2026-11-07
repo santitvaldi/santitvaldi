@@ -1,10 +1,10 @@
-<h3 align="center">&lt; Santiago Valdi &gt;</h3>
-
 <p align="center">
+  <img src="./name.png" width="650" alt="&lt; Santiago Valdi &gt;" />
+  <br />
   <img src="./degree.png" width="600" alt="Técnico Universitario en Programación Informática" />
+  <br />
+  Universidad Nacional de San Martín (UNSAM)
 </p>
-
-<p align="center">Universidad Nacional de San Martín (UNSAM)</p>
 
 <br /><br />
 
